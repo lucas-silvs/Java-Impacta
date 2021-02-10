@@ -27,7 +27,7 @@ public class Principal { // Classe com os métodos principais
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
 		
-		// exibir uma string usando printf.
+		// exibir uma string usando printf teste 2.
 		System.out.printf("Olá %s!", nome);
 
 	}
